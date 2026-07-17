@@ -26,8 +26,7 @@
 <br>
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tu_perfil_aqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:tu_correo_aqui@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="email" height="30" width="40" /></a>
+<a href="https://candidato.co.computrabajo.com/candidate/cv/edit/" target="blank"><img align="center" src="https://img.shields.io/badge/CompuTrabajo-0062FF?style=for-the-badge&logo=computrabajo&logoColor=white" alt="CompuTrabajo" height="30" /></a>
 </p>
 <br>
 
@@ -64,8 +63,6 @@
 <div align="center">
  
 ![Estadísticas de Carlos](https://github-readme-stats.vercel.app/api?username=carlow222&theme=midnight-purple&show_icons=true&locale=es&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=carlow222&theme=midnight-purple&locale=es&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
