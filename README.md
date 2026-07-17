@@ -59,10 +59,10 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Estadísticas de GitHub:</h3>
+<h3 align="left">Actividad de GitHub:</h3>
 <div align="center">
  
-![Estadísticas de Carlos](https://github-readme-stats.vercel.app/api?username=carlow222&theme=midnight-purple&show_icons=true&locale=es&hide_border=true)
+![Actividad de Carlos](https://github-readme-activity-graph.vercel.app/graph?username=carlow222&custom_title=Actividad%20de%20Carlos&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </div>
 
