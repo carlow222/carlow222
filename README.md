@@ -1,58 +1,76 @@
-# 👨‍💻 Carlos | Desarrollador de Software
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<div align="center">
-  <h3>
-    <i>Transformando problemas complejos en código elegante y mantenible.</i>
-  </h3>
-</div>
+<h1 align="center">Hola 👋, Soy Carlos</h1>
+<h3 align="center">Un apasionado Desarrollador de Software</h3>
 
----
+<p align="center">Capacidad para el desarrollo integral de software, abarcando desde la creación de interfaces funcionales en el front-end hasta la implementación de lógica de negocio en el back-end. Cuento con competencias en el manejo de bases de datos relacionales, codificación bajo el patrón MVC y ejecución de pruebas de sistema. Orientado a la resolución de problemas y al desarrollo de soluciones web escalables, asegurando la calidad y el cumplimiento de requerimientos técnicos.</p>
 
-## 📌 Sobre Mí
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=carlow222&label=Profile%20views&color=0e75b6&style=flat" alt="carlow222 vistas" /> 
+</p>
 
-Capacidad para el desarrollo integral de software, abarcando desde la creación de interfaces funcionales en el front-end hasta la implementación de lógica de negocio en el back-end. Cuento con competencias en el manejo de bases de datos relacionales, codificación bajo el patrón MVC y ejecución de pruebas de sistema. Orientado a la resolución de problemas y al desarrollo de soluciones web escalables, asegurando la calidad y el cumplimiento de requerimientos técnicos.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-- 🔭 Actualmente trabajando en perfeccionar mis habilidades en **Java** y arquitecturas empresariales.
-- 🌱 Aprendiendo continuamente sobre frameworks backend modernos y patrones de diseño de software.
-- 💡 Siempre abierto a colaborar en proyectos innovadores que reten mis habilidades de resolución de problemas.
-- 💬 Pregúntame sobre: **Desarrollo Backend, Diseño Orientado a Objetos y Patrón MVC**.
+- 🔭 Actualmente enfocado en **arquitecturas empresariales y código mantenible.**
 
----
+- 🌱 Aprendiendo continuamente sobre **frameworks modernos y patrones de diseño.**
 
-## 🛠️ Tecnologías y Herramientas
+- 💬 Pregúntame sobre **Desarrollo Backend, Diseño Orientado a Objetos y Patrón MVC.**
 
-### Front-end & Back-end
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java" alt="Front-end and Back-end" />
-</div>
+- 📫 Cómo contactarme **tu_correo_aqui@example.com**
 
-### Bases de Datos & Arquitectura (MVC / Pruebas)
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,spring" alt="Bases de Datos y Spring" />
-</div>
+<br>
+<h3 align="left">Conecta conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tu_perfil_aqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:tu_correo_aqui@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="email" height="30" width="40" /></a>
+</p>
+<br>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 📊 Estadísticas de GitHub
+<h3 align="left">Lenguajes y Herramientas:</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlow222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub de carlow222" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlow222&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
-</div>
-
----
-
-## 📫 Contáctame
-
-Siempre estoy interesado en discutir nuevas oportunidades, colaboraciones open-source o simplemente hablar de tecnología. ¡No dudes en contactarme!
-
-<div align="center">
-  <a href="mailto:tu_correo_aqui@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring" />
   </a>
-  <a href="https://linkedin.com/in/tu_perfil_aqui">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
+</p>
+
+- Base de Datos
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Estadísticas de GitHub:</h3>
+<div align="center">
+ 
+![Estadísticas de Carlos](https://github-readme-stats.vercel.app/api?username=carlow222&theme=midnight-purple&show_icons=true&locale=es&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=carlow222&theme=midnight-purple&locale=es&hide_border=true)](https://git.io/streak-stats)
+
 </div>
+
+<br><br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Siempre me encanta conectar con nuevas personas</b> así que si quieres decir <b>hola, ¡estaré encantado de conocerte!</b> :)</em>
+
+<br>
+<p align="right" > Creado con 🧡 por Carlos</p>
