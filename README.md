@@ -1,7 +1,10 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hola 👋, Soy Carlos</h1>
-<h3 align="center">Un apasionado Desarrollador de Software</h3>
+<div align="center">
+  <img src="https://github.com/carlow222.png" width="160" height="160" style="border-radius: 50%; margin-bottom: 15px;" alt="Foto de Carlos" />
+  <h1>Hola 👋, Soy Carlos</h1>
+  <h3>Un apasionado Desarrollador de Software</h3>
+</div>
 
 <p align="center">Capacidad para el desarrollo integral de software, abarcando desde la creación de interfaces funcionales en el front-end hasta la implementación de lógica de negocio en el back-end. Cuento con competencias en el manejo de bases de datos relacionales, codificación bajo el patrón MVC y ejecución de pruebas de sistema. Orientado a la resolución de problemas y al desarrollo de soluciones web escalables, asegurando la calidad y el cumplimiento de requerimientos técnicos.</p>
 
