@@ -21,7 +21,7 @@
 
 - 💬 Pregúntame sobre **Desarrollo Backend, Diseño Orientado a Objetos y Patrón MVC.**
 
-- 📫 Cómo contactarme **tu_correo_aqui@example.com**
+- 📫 Cómo contactarme **prietocarlos20a@gmail.com**
 
 <br>
 <h3 align="left">Conecta conmigo:</h3>
